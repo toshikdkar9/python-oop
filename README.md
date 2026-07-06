@@ -24,14 +24,13 @@ oops-python/
 ├── library_system.py      ← this project
 ├── oops_python.ipynb      ← all concept code
 ├── notes/
-│   └── README.md          ← full concept notes + 30 interview questions
-├── pdfs/
+│   └── notes.md          ← full concept notes + 30 interview questions
 │   ├── oops_python_notes.pdf
 │   └── missed_concepts.pdf
-└── class_diagram.svg
 ```
 
 ---
+
 
 ## How to Run
 
